@@ -3,9 +3,9 @@ This website allows a user to generate a random password based on criteria decid
 
 This website will generate a random website based on the user's input. The user will click the 'Generate Password', then be prompted to select how many characters the password should be as well as what types of characters will be included (lowercase letters, uppercase letters, numbers and special characters). An array was created for each of these. If/else statements were used to ensure the generated password was between 8 and 138 characters. Then functions were employed to ensure each character type was included. The user's input was stored to generate a random password that fits within the users selection. 
 
-![start](images/1.png)
-![selecting characters](images/2.png)
-![generated password](images/3.png)
+![start](./assets/images/1.png)
+![selecting characters](./assets/images/2.png)
+![generated password](./assets/images/3.png)
 
 To visit the password generator [click here](https://github.com/jjannross/password-generator)
 
